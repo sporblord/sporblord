@@ -24,4 +24,4 @@ Outside of Roblox, I dedicate time to personal projects and open source work. I�
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Jacey</a> Email: johndoe@gmail.com</p>
+<p align="center">🔗 Discord: @sporblord Email: johndoe@gmail.com</p>
