@@ -4,7 +4,7 @@ Hi there! I'm Jacey — a full-time programmer passionate about game development
 
 I began programming with GameMaker Studio and have since explored engines like Unity, Godot, and Love2D. Today, my main focus is on Roblox development, where I’ve worked with several major studios on games that have collectively reached millions of visits. I’m also an active contributor in large Roblox communities and development groups.
 
-Outside of Roblox, I dedicate time to personal projects and open source work. I’m most experienced in Luau, JavaScript/TypeScript, and always looking to learn more. I have worked computer graphics, simulations, mods, websites, and more. I also enjoy UI/UX design.
+Outside of Roblox, I dedicate time to personal projects and open source work. I’m most experienced in Luau, JavaScript/TypeScript, and always looking to learn more. I have worked on projects in computer graphics, simulations, mods, websites, and more. I also enjoy UI/UX design.
 
 ## My Skills
 
