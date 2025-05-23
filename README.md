@@ -23,5 +23,4 @@ Outside of Roblox, I dedicate time to personal projects and open source work. Iâ
 <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sporblord&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ## Connect with me
-
-<p align="center">ðŸ”— Discord: @sporblord Email: johndoe@gmail.com</p>
+- Discord: @sporblord
