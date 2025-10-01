@@ -1,10 +1,6 @@
 ## About Me
 
-Hi there! I'm Jacey — a full-time programmer passionate about game development, open source development, and more. I've been programming for my entire life, and studied Computer Science at the University of Calgary.
-
-I began programming with GameMaker Studio and have since explored engines like Unity, Godot, and Love2D. Today, my main focus is on Roblox development, where I’ve worked with several major studios on games that have collectively reached millions of visits. I’m also an active contributor in large Roblox communities and development groups.
-
-Outside of Roblox, I dedicate time to personal projects and open source work. I’m most experienced in Luau, JavaScript/TypeScript, and always looking to learn more. I have worked on projects in computer graphics, simulations, mods, websites, and more. I also enjoy UI/UX design.
+Hi! I'm Jacey. I currently work at HDC on Roblox. If you have any questions, feel free to contact me on Discord.
 
 ## My Skills
 
