@@ -19,4 +19,4 @@ Hi! I'm Jacey. I currently work at HDC on Roblox. If you have any questions, fee
 <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sporblord&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ## Connect with me
-- Discord: @sporblord
+- Discord: @thesporblord
